@@ -1,8 +1,8 @@
 # Pinout!
 
-### The Raspberry Pi GPIO pinout guide.
+### The BeagleY-AI GPIO pinout guide.
 
-This GPIO Pinout is an interactive reference to the Raspberry Pi GPIO pins, and a guide to the Raspberry Pi's GPIO interfaces. Pinout also includes [hundreds of pinouts for Raspberry Pi add-on boards, HATs and pHATs](/boards).
+This GPIO Pinout is an interactive reference to the BeagleY-Ai GPIO pins, and a guide to it's GPIO interfaces. Pinout also includes [hundreds of pinouts for add-on boards, HATs and pHATs](/boards).
 
 ## Support Pinout.xyz
 
@@ -12,10 +12,6 @@ If you love Pinout, please help me fund new features and improvements:
 * via Patreon at [Patreon.com/gadgetoid](https://www.patreon.com/gadgetoid)
 
 Every $1 makes all the difference! Thank you.
-
-## pHAT Stack
-
-Pinout has teamed up with Pimoroni to create a [prototype board compatibility tool, check it out here!](/phatstack)
 
 ## Explore HATs & pHATs
 
