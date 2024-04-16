@@ -1,5 +1,5 @@
 ---
-name: BeagleY-Ai GPIO Pinout
+name: Raspberry Pi GPIO Pinout
 pins:
   '1':
     name: 3v3 Power
